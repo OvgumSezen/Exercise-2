@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Print the lyrics of "Girls & Boys" by Blur to the console
+echo "Street's like a jungle"
+echo "So call the police"
+echo "Following the herd"
+echo "Down to Greece"
+echo ""
+echo "On holiday"
+echo "Love in the '90s"
+echo "Is paranoid"
+echo "On sunny beaches"
+echo "Take your chances looking for"
+echo ""
+echo "Girls who are boys"
+echo "Who like boys to be girls"
+echo "Who do boys like they're girls"
+echo "Who do girls like they're boys"
+echo "Always should be someone you really love"
+echo ""
